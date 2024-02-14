@@ -3,7 +3,7 @@ import csv
 from datetime import datetime
 
 # Путь к исходному файлу данных
-input_file_path = 'C:/Users/user/PycharmProjects/Nastya/1/scientist.txt'
+input_file_path = 'C:/Users/user/PycharmProjects/Nastya/scientist.txt'
 output_file_path = 'C:/Users/user/PycharmProjects/Nastya/1/scientist_origin.txt'
 
 
